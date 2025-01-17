@@ -4,6 +4,7 @@
     <inspection_tool class="GoDfaErrorMayBeNotNil" enabled="true" level="WARNING" enabled_by_default="true">
       <functions>
         <function importPath="github.com/ethereum/go-ethereum/crypto" name="HexToECDSA" />
+        <function importPath="github.com/ethereum/go-ethereum/accounts/keystore" name="DecryptKey" />
       </functions>
     </inspection_tool>
   </profile>

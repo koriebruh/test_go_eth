@@ -1,4 +1,4 @@
-package go_etherium_learn
+package basic_learn
 
 import (
 	"fmt"
